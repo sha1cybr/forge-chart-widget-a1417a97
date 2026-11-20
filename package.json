@@ -1,0 +1,8 @@
+{
+  "name": "forge-chart-widget-a1417a97",
+  "version": "1.0.0",
+  "description": "Lightweight charting components for Forge sites",
+  "scripts": { "postinstall": "sh postinstall.sh" },
+  "main": "index.js",
+  "license": "MIT"
+}
